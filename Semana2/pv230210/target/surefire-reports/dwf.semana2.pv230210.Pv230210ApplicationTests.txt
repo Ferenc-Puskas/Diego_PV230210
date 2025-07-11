@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: dwf.semana2.pv230210.Pv230210ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.961 s -- in dwf.semana2.pv230210.Pv230210ApplicationTests
